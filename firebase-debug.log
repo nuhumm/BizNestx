@@ -1,0 +1,21 @@
+[debug] [2025-08-18T02:11:34.035Z] ----------------------------------------------------------------------
+[debug] [2025-08-18T02:11:34.158Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\MAKAMA\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2025-08-18T02:11:34.160Z] CLI Version:   14.12.1
+[debug] [2025-08-18T02:11:34.160Z] Platform:      win32
+[debug] [2025-08-18T02:11:34.161Z] Node Version:  v22.15.0
+[debug] [2025-08-18T02:11:34.163Z] Time:          Sun Aug 17 2025 15:11:34 GMT-1100 (GMT-11:00)
+[debug] [2025-08-18T02:11:34.164Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-08-18T02:11:34.207Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-08-18T02:11:34.209Z] > authorizing via signed-in user (nmmakama83@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\MAKAMA\webpage\my_web_page\games\school_project
+

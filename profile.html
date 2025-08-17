@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>BizNest - Profile</title>
+  <link rel="stylesheet" href="css/style.css">
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>Profile</h1>
+    <input type="text" id="name" placeholder="Full Name">
+    <input type="text" id="businessName" placeholder="Business Name">
+    <input type="text" id="contact" placeholder="Contact Number">
+    <button id="saveProfile">Save Profile</button>
+    <br><br>
+    <a href="dashboard.html">Back to Dashboard</a>
+  </div>
+
+  <script src="js/firebase-config.js"></script>
+  <script src="js/profile.js"></script>
+</body>
+</html>
